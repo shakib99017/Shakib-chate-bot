@@ -28,7 +28,7 @@ module.exports = {
                         replyGuide: "\n• 'add <index|all>' দিয়ে এক্সেপ্ট করুন\n• 'del <index|all>' দিয়ে ডিলিট করুন",
                         invalidAction: "× ভুল কমান্ড! শুধু add অথবা del ব্যবহার করুন।",
                         done: "✅ কাজ শেষ!\n• সফল: %1\n• ব্যর্থ: %2",
-                        error: "× সমস্যা হয়েছে: %1। প্রয়োজনে Contact MahMUD।"
+                        error: "× সমস্যা হয়েছে: %1। প্রয়োজনে Contact Shakib।"
                 },
                 en: {
                         noRequest: "× No pending friend requests! 😴",
