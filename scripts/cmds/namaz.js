@@ -20,7 +20,7 @@ module.exports = {
                 },
                 category: "Islamic",
                 guide: {
-                        bn: '   {pn} <শহরের নাম>: (যেমন: {pn} Dhaka)',
+                        bn: '   {pn} <শহরের নাম>: (যেমন: {pn} bogura)',
                         en: '   {pn} <city>: (Ex: {pn} Dhaka)',
                         vi: '   {pn} <thành phố>: (VD: {pn} Dhaka)'
                 }
@@ -33,7 +33,7 @@ module.exports = {
                 },
                 en: {
                         noData: "× Sorry baby, prayer times for %1 were not found. 🕌",
-                        error: "× API error: %1. Contact MahMUD for help."
+                        error: "× API error: %1. Contact Shakib for help."
                 },
                 vi: {
                         noData: "× Xin lỗi cưng, không tìm thấy thời gian cầu nguyện cho %1. 🕌",
